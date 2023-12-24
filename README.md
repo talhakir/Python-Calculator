@@ -6,4 +6,4 @@ Used libraries:
 
 This calculator can calculate four basic calculations, handle priority of parenthesis and show the history
 
-There are two sets: history_setE(for equations) and history_setT(for total). These sets are used to display history
+There are two sets: history_setE(for expression) and history_setT(for total). These sets are used to display history
