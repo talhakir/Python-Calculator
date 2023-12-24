@@ -1,6 +1,7 @@
 # Python-Calculator
 
 Used libraries:
+* Python
 * Tkinter
 
 This calculator can calculate four basic calculations, handle priority of parenthesis and show the history
